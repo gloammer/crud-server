@@ -21,7 +21,7 @@
     "lodash": "^4.17.15",
     "mongoose": "^5.9.2",
     "nanoid": "^3.1.9",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "@types/cors": "^2.8.6",
