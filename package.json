@@ -20,7 +20,7 @@
     "http-proxy-middleware": "^1.0.4",
     "lodash": "^4.17.15",
     "mongoose": "^5.9.2",
-    "nanoid": "^3.1.9",
+    "nanoid": "^3.1.31",
     "node-fetch": "^2.6.0"
   },
   "devDependencies": {
